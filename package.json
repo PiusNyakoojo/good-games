@@ -1,0 +1,27 @@
+{
+  "name": "custom-lib",
+  "version": "1.0.0",
+  "description": "Get random name of a good game",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiusNyakoojo/good-games.git"
+  },
+  "keywords": [
+    "random",
+    "good",
+    "games"
+  ],
+  "author": "Pius Nyakoojo <pnyakoojo.16@gmail.com> (http://piusnyakoojo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PiusNyakoojo/good-games/issues"
+  },
+  "homepage": "https://github.com/PiusNyakoojo/good-games#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
