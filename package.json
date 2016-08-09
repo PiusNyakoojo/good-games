@@ -1,5 +1,5 @@
 {
-  "name": "custom-lib",
+  "name": "good-games",
   "version": "1.0.0",
   "description": "Get random name of a good game",
   "main": "src/index.js",
