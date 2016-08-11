@@ -1,5 +1,6 @@
-var uniqueRandomArray = require('unique-random-array');
-var goodGameNames = require('./good-games.json');
+import uniqueRandomArray from 'unique-random-array';
+import goodGameNames from './good-games.json';
+
 var getRandomItem = uniqueRandomArray(goodGameNames);
 
 module.exports = {

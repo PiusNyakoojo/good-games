@@ -1,5 +1,5 @@
-var expect = require('chai').expect;
-var goodGames = require('./index');
+import { expect } from 'chai';
+import goodGames from './index';
 
 describe('good-games', function() {
 	describe('all', function() {
